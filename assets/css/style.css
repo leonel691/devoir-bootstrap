@@ -1,0 +1,26 @@
+.bg-purple{
+    background-color: purple;
+}
+
+.taille{
+    height:23px;
+    width:100%;
+    background-color: #808080 ;
+}
+.julien {
+    color:purple;
+}
+
+.recruter {
+    background-color:purple;
+    color:white;
+    border:0;
+    border-radius: 5px;
+}
+
+.fond {
+    background-color:pink;
+}
+.arrondi{
+    border-radius:5px;
+}
